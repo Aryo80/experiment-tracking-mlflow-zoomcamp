@@ -1,0 +1,8 @@
+conda create -n exp-tracking-env python=3.9
+source ~/.bashrc
+conda init
+conda activate exp-tracking-env
+pip install -r requirement.txt
+pip list
+mlflow ui --backend-store-uri sqlite:///mlflow.db
+
