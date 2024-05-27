@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/experiment-tracking-mlflow-zoomcamp/homework/mlruns/0/454af58ffd044fa7a15f6131b1f3db5a/artifacts
+end_time: 1716619321187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 454af58ffd044fa7a15f6131b1f3db5a
+run_name: able-robin-611
+run_uuid: 454af58ffd044fa7a15f6131b1f3db5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716619309621
+status: 3
+tags: []
+user_id: codespace

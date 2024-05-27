@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/experiment-tracking-mlflow-zoomcamp/homework/mlruns/0/fd8c7e18f92441fd8f0d5e965675ca58/artifacts
+end_time: 1716774017722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd8c7e18f92441fd8f0d5e965675ca58
+run_name: bouncy-moose-73
+run_uuid: fd8c7e18f92441fd8f0d5e965675ca58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716774000387
+status: 3
+tags: []
+user_id: codespace

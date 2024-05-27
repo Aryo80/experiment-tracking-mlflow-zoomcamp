@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/experiment-tracking-mlflow-zoomcamp/homework/mlruns/0/a06f040a4b8c40cca46a4c4f3613e40b/artifacts
+end_time: 1716773873437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a06f040a4b8c40cca46a4c4f3613e40b
+run_name: luminous-ram-365
+run_uuid: a06f040a4b8c40cca46a4c4f3613e40b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716773855621
+status: 3
+tags: []
+user_id: codespace
